@@ -1,0 +1,7 @@
+C:\soft\pxc\bin\ProvaCSharp.exe.config
+C:\soft\pxc\bin\ProvaCSharp.exe
+C:\soft\pxc\bin\ProvaCSharp.pdb
+C:\Desenvhome-pxc\ProvaCSharp\obj\Debug\ProvaCSharp.csproj.CoreCompileInputs.cache
+C:\Desenvhome-pxc\ProvaCSharp\obj\Debug\ProvaCSharp.csproj.CopyComplete
+C:\Desenvhome-pxc\ProvaCSharp\obj\Debug\ProvaCSharp.exe
+C:\Desenvhome-pxc\ProvaCSharp\obj\Debug\ProvaCSharp.pdb
