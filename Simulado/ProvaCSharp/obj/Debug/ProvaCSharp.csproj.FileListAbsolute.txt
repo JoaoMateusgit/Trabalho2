@@ -1,0 +1,14 @@
+C:\soft\pxc\bin\ProvaCSharp.exe.config
+C:\soft\pxc\bin\ProvaCSharp.exe
+C:\soft\pxc\bin\ProvaCSharp.pdb
+C:\Desenvhome-pxc\ProvaCSharp\obj\Debug\ProvaCSharp.csproj.CoreCompileInputs.cache
+C:\Desenvhome-pxc\ProvaCSharp\obj\Debug\ProvaCSharp.csproj.CopyComplete
+C:\Desenvhome-pxc\ProvaCSharp\obj\Debug\ProvaCSharp.exe
+C:\Desenvhome-pxc\ProvaCSharp\obj\Debug\ProvaCSharp.pdb
+C:\Users\joaom\Downloads\soft\pxc\bin\ProvaCSharp.exe.config
+C:\Users\joaom\Downloads\soft\pxc\bin\ProvaCSharp.exe
+C:\Users\joaom\Downloads\soft\pxc\bin\ProvaCSharp.pdb
+C:\Users\joaom\Downloads\Trabalho2-main\ProvaCSharp\obj\Debug\ProvaCSharp.csproj.AssemblyReference.cache
+C:\Users\joaom\Downloads\Trabalho2-main\ProvaCSharp\obj\Debug\ProvaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Downloads\Trabalho2-main\ProvaCSharp\obj\Debug\ProvaCSharp.exe
+C:\Users\joaom\Downloads\Trabalho2-main\ProvaCSharp\obj\Debug\ProvaCSharp.pdb
